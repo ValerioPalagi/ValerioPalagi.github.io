@@ -2,14 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 3
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<h3>2026</h3>
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Local Projections in Macroeconomics** — Winter
+<br>Prof. Ivan Petrella
+<br>Teaching Assistant, Barcelona School of Economics
+<br><a href="https://bse.eu/executive-education/macroeconometrics/local-projections-in-macroeconomics" target="_blank">Course page</a>
 
-{% include courses.liquid %}
+<h3>2025</h3>
+
+**Microeconomic Theory** — Fall
+<br>Prof. Ignacio Monzon
+<br>Teaching Assistant, Collegio Carlo Alberto
+<br><a href="https://sites.google.com/site/imonzon/teaching/microtheory" target="_blank">Course page</a>
