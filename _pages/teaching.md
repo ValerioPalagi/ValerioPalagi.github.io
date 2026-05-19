@@ -12,6 +12,7 @@ nav_order: 3
 <br>Prof. Ivan Petrella
 <br>Teaching Assistant, Barcelona School of Economics
 <br><a href="https://bse.eu/executive-education/macroeconometrics/local-projections-in-macroeconomics" target="_blank">Course page</a>
+<br><a href="/assets/pdf/evaluation_LocalProjBSE.pdf" target="_blank">Teaching evaluation</a>
 
 <h3>2025</h3>
 
