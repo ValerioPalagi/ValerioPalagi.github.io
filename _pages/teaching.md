@@ -8,6 +8,11 @@ nav_order: 3
 
 <h3>2026</h3>
 
+**Time Series Models for Macroeconomic Analysis I** — Summer
+<br>Prof. Luca Gambetti
+<br>Teaching Assistant, Barcelona School of Economics
+<br><a href="https://bse.eu/summer-school/macroeconometrics/time-series-models-macoreconometrics-analysis-i" target="_blank">Course page</a>
+
 **Local Projections in Macroeconomics** — Winter
 <br>Prof. Ivan Petrella
 <br>Teaching Assistant, Barcelona School of Economics
