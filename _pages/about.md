@@ -23,6 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Economics at the University of Turin and Collegio Carlo Alberto, currently visiting Universitat Pompeu Fabra (Barcelona).
+I am a PhD student in Economics at the University of Turin and Collegio Carlo Alberto.
 
-My research interests include macroeconometrics, fiscal macroeconomics, and time series analysis.
+My research interests include Bayesian macroeconometrics, time series analysis and fiscal macroeco-
+nomics.
