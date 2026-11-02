@@ -23,6 +23,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Economics at the University of Turin and Collegio Carlo Alberto.
+I am a Mathematics graduate and current PhD student in Economics at the University of Turin and Collegio Carlo Alberto.
 
 My research interests include Bayesian macroeconometrics, time series analysis and fiscal macroeconomics.
