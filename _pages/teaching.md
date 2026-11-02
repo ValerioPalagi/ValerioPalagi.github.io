@@ -8,10 +8,16 @@ nav_order: 3
 
 <h3>2026</h3>
 
+**Microeconomic Theory** — Fall
+<br>Prof. Ignacio Monzon
+<br>Teaching Assistant, Collegio Carlo Alberto
+<br><a href="https://sites.google.com/site/imonzon/teaching/microtheory" target="_blank">Course page</a>
+
 **Time Series Models for Macroeconomic Analysis I** — Summer
 <br>Prof. Luca Gambetti
 <br>Teaching Assistant, Barcelona School of Economics
 <br><a href="https://bse.eu/summer-school/macroeconometrics/time-series-models-macoreconometrics-analysis-i" target="_blank">Course page</a>
+<br><a href="/assets/pdf/26SMA02_Valerio_Palagi_Teaching_Assistant.pdf" target="_blank">Teaching evaluation</a>
 
 **Local Projections in Macroeconomics** — Winter
 <br>Prof. Ivan Petrella
@@ -24,4 +30,4 @@ nav_order: 3
 **Microeconomic Theory** — Fall
 <br>Prof. Ignacio Monzon
 <br>Teaching Assistant, Collegio Carlo Alberto
-<br><a href="https://sites.google.com/site/imonzon/teaching/microtheory" target="_blank">Course page</a>
+<br><a href="https://sites.google.com/site/imonzon/teaching/microtheory/2025?authuser=0" target="_blank">Course page</a>
