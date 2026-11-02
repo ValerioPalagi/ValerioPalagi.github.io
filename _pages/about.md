@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Turin & Collegio Carlo Alberto | Visiting Universitat Pompeu Fabra
+subtitle: University of Turin & Collegio Carlo Alberto
 
 profile:
   align: right
@@ -25,5 +25,4 @@ latest_posts:
 
 I am a PhD student in Economics at the University of Turin and Collegio Carlo Alberto.
 
-My research interests include Bayesian macroeconometrics, time series analysis and fiscal macroeco-
-nomics.
+My research interests include Bayesian macroeconometrics, time series analysis and fiscal macroeconomics.
